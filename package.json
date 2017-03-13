@@ -1,17 +1,20 @@
 {
   "name": "ReactNativeCountdownTimer",
   "repository": {
-  	"type": "git",
-  	"url": "https://github.com/rcvrgs/react-native-countdown-timer.git"
+    "type": "git",
+    "url": "https://github.com/rcvrgs/react-native-countdown-timer.git"
   },
   "description": "Countdown timer component for react native",
   "keywords": [
-  	"react-component",
-  	"react-native",
-  	"ios"
+    "react-component",
+    "react-native",
+    "ios"
   ],
   "version": "0.0.1",
   "peerDependencies": {
     "react-native": "^0.14.2"
+  },
+  "dependencies": {
+    "react": "^15.4.2"
   }
 }
